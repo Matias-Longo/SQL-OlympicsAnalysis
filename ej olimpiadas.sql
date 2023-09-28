@@ -135,9 +135,3 @@ on a.Games = c.Games AND a.Gold_Medals = c.Max_Gold_Medals
 group by Games
 order by a.Games asc
  
-
-
--- Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
--- Which countries have never won gold medal but have won silver/bronze medals?
--- In which Sport/event, India has won highest medals.
--- Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
